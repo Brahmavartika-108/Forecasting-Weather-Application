@@ -1,21 +1,6 @@
-# Forecasting-Weather-Application
-
-Application Link: file:///F:/Placements/WEB%20DEVELOPMENT/Forecasting%20Weather%20Application/index.html
-
 # 🌤️ **Forecasting Weather Application** 🌤️
 
 Welcome to the **Forecasting Weather Application**, your go-to tool for getting accurate and real-time weather forecasts. With just a simple city name input, this app provides you with up-to-date weather information, including temperature, humidity, wind speed, and weather conditions. Whether you're planning your day or simply curious about the weather, this app has got you covered!
-
-
-## 📥 **Application Link**:
-<p align="center">
- <a href="https://www.linkedin.com/in/Utsa-Das-929263291/" target="_blank">
-    <img src="https://img.shields.io/badge/Weather%20App-%2300C8F4.svg?style=for-the-badge&logo=OpenWeather&logoColor=white" height="40">
-  </a>
-</p>
-
-
-
 
 ---
 
