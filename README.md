@@ -6,8 +6,10 @@ Application Link: file:///F:/Placements/WEB%20DEVELOPMENT/Forecasting%20Weather%
 
 Welcome to the **Forecasting Weather Application**, your go-to tool for getting accurate and real-time weather forecasts. With just a simple city name input, this app provides you with up-to-date weather information, including temperature, humidity, wind speed, and weather conditions. Whether you're planning your day or simply curious about the weather, this app has got you covered!
 
+
 ## 📥 **Application Link**:
 [Forecasting Weather Application](file:///F:/Placements/WEB%20DEVELOPMENT/Forecasting%20Weather%20Application/index.html)
+
 
 ---
 
