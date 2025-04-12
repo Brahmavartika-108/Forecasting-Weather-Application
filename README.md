@@ -9,7 +9,7 @@ Welcome to the **Forecasting Weather Application**, your go-to tool for getting 
 
 ## 📥 **Application Link**:
 <p align="center">
-  <a href="file:///F:/Placements/WEB%20DEVELOPMENT/Forecasting%20Weather%20Application/index.html" target="_blank">
+ <a href="https://www.linkedin.com/in/Utsa-Das-929263291/" target="_blank">
     <img src="https://img.shields.io/badge/Weather%20App-%2300C8F4.svg?style=for-the-badge&logo=OpenWeather&logoColor=white" height="40">
   </a>
 </p>
