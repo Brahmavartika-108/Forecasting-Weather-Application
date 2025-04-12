@@ -8,7 +8,8 @@ Welcome to the **Forecasting Weather Application**, your go-to tool for getting 
 
 
 ## 📥 **Application Link**:
-[Forecasting Weather Application](file:///F:/Placements/WEB%20DEVELOPMENT/Forecasting%20Weather%20Application/index.html)
+<a href="file:///F:/Placements/WEB%20DEVELOPMENT/Forecasting%20Weather%20Application/index.html" target="_blank">Forecasting Weather Application</a>
+
 
 
 ---
